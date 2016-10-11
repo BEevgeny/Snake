@@ -1,0 +1,25 @@
+h1 {
+  left: 200px; /* Положение от левого края */
+  top: 50px; /* Положение от верхнего края */
+  background: #e0e0e0; /* Цвет фона */
+  border: 1px solid #000; /* Параметры рамки */
+  padding: 5px; /* Поля вокруг текста */
+  text-align: center; /* Выравнивание по ширине */ 
+}
+.main {
+    text-align: center; /* Выравнивание по центру */ 
+    background: HoneyDew  ; /* Цвет фона */
+    padding: 35px; /* Поля вокруг текста */
+    border: 1px solid black; /* Параметры рамки */
+    border-radius: 8px; /* скругление*/
+    box-shadow: 0 0 30px rgba(0,0,0,0.5); /* рамка */
+    width: 400px;
+    margin: 0 auto; /* Отступы вокруг элемента */
+}
+textarea {
+    width: 350px;
+    height: 350px;
+    border-radius: 8px; /* скругление*/
+    text-align: center; /* Выравнивание по центру */ 
+    border: 1px solid white;
+}
